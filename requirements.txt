@@ -1,0 +1,9 @@
+Requirements
+
+The implementation requires Python and the following main packages:
+
+NumPy
+PyTorch
+PyTorch Geometric
+Gymnasium
+Matplotlib
